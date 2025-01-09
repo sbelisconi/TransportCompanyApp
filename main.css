@@ -1,0 +1,111 @@
+.bg-col{
+    background-color: #D6E5E3;
+}
+
+.main-bg{
+    color: #E88F96;
+}
+
+.main-bg a{
+    color: #E88F96;
+}
+
+.main-bg a:hover{
+    color: #582b11 !important;
+}
+
+.nave-toggle{
+    background-color: #E88F96 !important;
+    color: #582b11 I !important;
+}
+.nav-bt{
+    color: #fff;
+    background-color: #E88F96;
+}
+
+.nav-bt:hover{
+    background-color: #582b11;
+    color: #fff;
+}
+
+.bg-img{
+    background-image: url('images/city.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.inner{
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+}
+.main-sec{
+    color: #ffffff;
+}
+
+.sec{
+    /* min-height: 700px; */
+}
+.form-content{
+    color: #ffffff;
+}
+
+.form-inner{
+        height: inherit;
+        background-color: rgba(0, 0, 0, 0.9);
+        width: 100%;
+}
+
+.icons{
+    font-size: 60px;
+}
+
+.special-txt{
+    color: #424874;
+}
+
+.foot-bg{
+    background-color: #E88F96;
+}
+
+.foot-bt{
+    color: #E88F96;
+    background-color: #ffffff;
+}
+
+.foot-bt:hover{
+    background-color: #582b11;
+    color: #ffffff;
+}
+
+.foot-link{
+    color: #424874;
+}
+.foot-link p a{
+    text-decoration: none;
+    color: #424874;
+}
+
+.sg-img{
+    height: 800px;
+    background-image: url('images/city.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.tiles{
+    background-color: #E88F96;
+    color: #ffffff;
+}
+/* .sg-inner{
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+} */
+
+@media all and (max-width:767px) {
+    .bg-img{
+        height: 900px;
+    }
+}
